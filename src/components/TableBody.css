@@ -1,0 +1,46 @@
+.table tbody td{
+    font-size: 1rem;
+    height: 3rem;
+    border-bottom: none;
+    
+}
+.detail-container{
+  height: max-content;
+  padding: 0.5rem;
+  
+  
+}
+.detail{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(36, 239, 77);
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border-radius: 1rem;
+    
+}
+.detail:hover{
+    background-color: rgb(16, 191, 51);
+}
+.detail-block{ 
+   width: 10rem;
+   background-color: rgb(172, 172, 172);
+   padding: 1rem;
+   margin-top: 1rem;
+   text-decoration: none;
+   text-align: start;
+   font-style: italic;
+   font-weight: 600;
+   font-size: 0.8rem;
+   border-radius: 5%;
+}
+.detail-block p{
+    margin-bottom: 1rem;
+}
+
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
