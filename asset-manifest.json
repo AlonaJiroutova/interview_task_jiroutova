@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interview_task_jiroutova/static/css/main.12e67d66.css",
+    "main.js": "/interview_task_jiroutova/static/js/main.c39de010.js",
+    "index.html": "/interview_task_jiroutova/index.html",
+    "main.12e67d66.css.map": "/interview_task_jiroutova/static/css/main.12e67d66.css.map",
+    "main.c39de010.js.map": "/interview_task_jiroutova/static/js/main.c39de010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e67d66.css",
+    "static/js/main.c39de010.js"
+  ]
+}
